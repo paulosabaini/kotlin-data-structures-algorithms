@@ -1,2 +1,3 @@
-# kotlin-data-structures-algorithms
-Data structures ald algorithms made in Kotlin
+# Data structures ald algorithms made in Kotlin
+
+Some basic data structures ald algorithms created in Kotlin while learning the language.
